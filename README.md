@@ -1,4 +1,4 @@
-# Python-
+#  Calculo IR
 Programa calcular valor desconto IR
 
 # Entrada de dados
